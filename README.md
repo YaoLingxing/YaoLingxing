@@ -1,4 +1,4 @@
-Projects involve: moving interface; active LCP; deep learning for science and engineering
+Projects: moving interface; active LCP; deep learning for science and engineering
 
 
 <!---
